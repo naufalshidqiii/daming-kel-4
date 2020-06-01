@@ -17,3 +17,5 @@ Melihat hal ini, tidak mengherankan jika industri penjualan tiket pesawat terban
 Apakah pada suatu transaksi pembelian tiket pesawat terjadi booking hotel (cross sell) ?
 
 ## Metode Penelitian
+[Link Notebook Google Collab](https://colab.research.google.com/drive/1I4KPYpp3U56NeJ6rjZ4axKA9v0B_0e3o?authuser=1#scrollTo=2ktQGKT5BSNg)
+
