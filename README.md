@@ -21,4 +21,5 @@ Apakah pada suatu transaksi pembelian tiket pesawat terjadi booking hotel (cross
 
 ## Metode Penelitian
 [Link Notebook Google Colaboratory](https://colab.research.google.com/drive/1I4KPYpp3U56NeJ6rjZ4axKA9v0B_0e3o?authuser=1#scrollTo=2ktQGKT5BSNg)
+[Link Google Docs](https://docs.google.com/document/d/1blVNllrHoQCSaieqPceL27BPFkVdTbrDwkLLDqNnN7E/edit?usp=sharing)
 
